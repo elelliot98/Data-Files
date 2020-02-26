@@ -1,0 +1,32 @@
+[
+  {
+    "year": 1997,
+    "male": 460,
+    "female": 32
+  },
+  {
+    "year": 1998,
+    "male": 782,
+    "female": 95
+  },
+  {
+    "year": 1999,
+    "male": 1000,
+    "female": 100
+  },
+  {
+    "year": 2000,
+    "male": 1165,
+    "female": 105
+  },
+  {
+    "year": 2001,
+    "male": 1119,
+    "female": 94
+  },
+  {
+    "year": 2002,
+    "male": 259,
+    "female": 18
+  }
+]
