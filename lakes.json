@@ -1,0 +1,47 @@
+[
+  {
+    "Lake": "Winnipeg",
+    "elevation": 217,
+    "area": 24387
+  },
+  {
+    "Lake": "Winnipegosis",
+    "elevation": 254,
+    "area": 5374
+  },
+  {
+    "Lake": "Manitoba",
+    "elevation": 248,
+    "area": 4624
+  },
+  {
+    "Lake": "SouthernIndian",
+    "elevation": 254,
+    "area": 2247
+  },
+  {
+    "Lake": "Cedar",
+    "elevation": 253,
+    "area": 1353
+  },
+  {
+    "Lake": "Island",
+    "elevation": 227,
+    "area": 1223
+  },
+  {
+    "Lake": "Gods",
+    "elevation": 178,
+    "area": 1151
+  },
+  {
+    "Lake": "Cross",
+    "elevation": 207,
+    "area": 755
+  },
+  {
+    "Lake": "Playgreen",
+    "elevation": 217,
+    "area": 657
+  }
+]
