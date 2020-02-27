@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "Math",
+    "bad": 18,
+    "good": 32,
+    "neutral": 460
+  },
+  {
+    "subject": "English",
+    "bad": 32,
+    "good": 95,
+    "neutral": 782
+  },
+  {
+    "subject": "Science",
+    "bad": 94,
+    "good": 100,
+    "neutral": 500
+  },
+  {
+    "subject": "History",
+    "bad": 95,
+    "good": 105,
+    "neutral": 473
+  },
+  {
+    "subject": "Technology",
+    "bad": 100,
+    "good": 94,
+    "neutral": 645
+  },
+  {
+    "subject": "Health",
+    "bad": 105,
+    "good": 18,
+    "neutral": 259
+  }
+]
