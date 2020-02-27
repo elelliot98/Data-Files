@@ -1,0 +1,22 @@
+[
+  {
+    "mammals": "warm blooded",
+    "fish": "cold blooded",
+    "both": "vertebrates"
+  },
+  {
+    "mammals": "have hair or fur",
+    "fish": "scaly skin",
+    "both": "have a skeleton"
+  },
+  {
+    "mammals": "breathe with lungs",
+    "fish": "breathe from gills",
+    "both": ""
+  },
+  {
+    "mammals": "have live births",
+    "fish": "hatch from eggs",
+    "both": ""
+  }
+]
