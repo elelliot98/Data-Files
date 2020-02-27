@@ -1,0 +1,16 @@
+[
+  {
+    "": 1,
+    "gender": "male",
+    "bad": 50,
+    "neutral": 35,
+    "good": 15
+  },
+  {
+    "": 2,
+    "gender": "female",
+    "bad": 4,
+    "neutral": 22,
+    "good": 74
+  }
+]
