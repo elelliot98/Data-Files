@@ -1,0 +1,51 @@
+[
+  {
+    "task": "Data Structures",
+    "startDay": 14,
+    "endDay": 21,
+    "completed": "yes",
+    "worth": 15
+  },
+  {
+    "task": "SVG & CSS",
+    "startDay": 21,
+    "endDay": 35,
+    "completed": "yes",
+    "worth": 15
+  },
+  {
+    "task": "Programming with Simple Javascript",
+    "startDay": 35,
+    "endDay": 56,
+    "completed": "yes",
+    "worth": 15
+  },
+  {
+    "task": "Javascript Interaction",
+    "startDay": 56,
+    "endDay": 71,
+    "completed": "yes",
+    "worth": 15
+  },
+  {
+    "task": "Spring Break",
+    "startDay": 73,
+    "endDay": 81,
+    "completed": "no",
+    "worth": 0
+  },
+  {
+    "task": "D3 Basics",
+    "startDay": 82,
+    "endDay": 92,
+    "completed": "no",
+    "worth": 20
+  },
+  {
+    "task": "Team Project",
+    "startDay": 92,
+    "endDay": 120,
+    "completed": "no",
+    "worth": 20
+  }
+]
