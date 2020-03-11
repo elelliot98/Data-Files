@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Cowtown Coliseum",
+    "latitude": 250,
+    "longitude": 450,
+    "seats": "10,000"
+  },
+  {
+    "Name": "Championship Stadium",
+    "latitude": 300,
+    "longitude": 500,
+    "seats": "12,500"
+  },
+  {
+    "Name": "Texan Rodeo Coliseum",
+    "latitude": 500,
+    "longitude": 550,
+    "seats": "5,000"
+  },
+  {
+    "Name": "Stevens Stadium",
+    "latitude": 320,
+    "longitude": 300,
+    "seats": "22,000"
+  },
+  {
+    "Name": "Southern Stalls Coliseum",
+    "latitude": 620,
+    "longitude": 400,
+    "seats": "15,000"
+  }
+]
